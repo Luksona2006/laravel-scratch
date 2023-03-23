@@ -1,10 +1,8 @@
-@extends('layout')
-
-@section('content')
+<x-layout>
 
     <article>
             {!! $post->body !!}
     </article> 
     <a href="/">Go Back</a>
 
-@endsection
+</x-layout>
