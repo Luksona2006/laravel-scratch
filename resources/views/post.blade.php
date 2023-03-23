@@ -5,8 +5,7 @@
 
 <body>
     <article>
-        <?php $post ?>
-    </article>
-
+            <?= $post->body; ?></h1>
+    </article> 
     <a href="/">Go Back</a>
 </body>
