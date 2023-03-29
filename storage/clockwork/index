@@ -252,3 +252,10 @@
 1680091898-3724-1161197469,1680091898.3626,GET,/,"App\Http\Controllers\PostController@index",200,84.277153015137,request
 1680091900-9448-1627820482,1680091900.9424,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",200,26.935815811157,request
 1680091904-9306-636859502,1680091904.9272,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",200,28.266906738281,request
+1680093895-0063-1433769635,1680093894.9974,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,92.975854873657,request
+1680093928-8234-1222404233,1680093928.82,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,41.527032852173,request
+1680093951-5130-1328872963,1680093951.5024,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",200,35.738945007324,request
+1680093957-0721-1480192777,1680093957.0618,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,116.03498458862,request
+1680093974-0149-742595685,1680093974.0002,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,76.821088790894,request
+1680094041-1032-1087640058,1680094041.0917,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,67.162036895752,request
+1680094061-1341-1946365136,1680094061.1195,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",200,64.566850662231,request
