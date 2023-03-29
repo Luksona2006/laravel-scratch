@@ -1,6 +1,4 @@
-<
-
-article class="flex bg-gray-100 border border-gray-200 p-6 rounded-xl space-x-4">
+<article class="flex bg-gray-100 border border-gray-200 p-6 rounded-xl space-x-4">
     <div class="flex-shrink-0">
         <img src="https://i.pravatar.cc/60" width="60" height="60" alt="profile image" class="rounded-xl">
     </div>
@@ -17,4 +15,4 @@ article class="flex bg-gray-100 border border-gray-200 p-6 rounded-xl space-x-4"
     <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio quod quaerat voluptates harum numquam nihil, provident voluptate. Ipsum culpa voluptatibus nesciunt necessitatibus dignissimos mollitia. Atque nemo dolores nesciunt incidunt quam.
     </p>
-</>
+</article>
