@@ -269,3 +269,13 @@
 1680095687-2365-109729454,1680095687.2154,GET,/?category=quia-necessitatibus-quis-totam&category=dolorum-laborum-rerum-sapiente-vitae-est-cumque-saepe&search=Ut%20modi,"App\Http\Controllers\PostController@index",200,51.35178565979,request
 1680095689-1399-220735457,1680095689.1302,GET,/?category=dolorum-laborum-rerum-sapiente-vitae-est-cumque-saepe&search=Ut+modi,"App\Http\Controllers\PostController@index",200,44.958829879761,request
 1680095691-1353-1000357224,1680095691.1213,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&search=Ut+modi,"App\Http\Controllers\PostController@index",200,49.885988235474,request
+1680099053-2589-561153931,1680099053.2524,GET,/,"App\Http\Controllers\PostController@index",200,35.776138305664,request
+1680099537-6249-1663369116,1680099537.6106,GET,/,"App\Http\Controllers\PostController@index",200,54.898023605347,request
+1680099545-4586-2139805979,1680099545.4444,GET,/?page=4,"App\Http\Controllers\PostController@index",200,48.310995101929,request
+1680099549-4794-534751379,1680099549.4729,GET,/,"App\Http\Controllers\PostController@index",200,40.365934371948,request
+1680099646-8397-19101064,1680099646.8363,GET,/?page=5,"App\Http\Controllers\PostController@index",200,20.398139953613,request
+1680099740-3073-1072465058,1680099740.3026,GET,/?page=5,"App\Http\Controllers\PostController@index",200,25.892019271851,request
+1680099747-7484-2034864762,1680099747.7343,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&,"App\Http\Controllers\PostController@index",200,53.301095962524,request
+1680099762-7402-1878904604,1680099762.7256,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&search=dwadwadwa,"App\Http\Controllers\PostController@index",200,40.98105430603,request
+1680099765-9997-1136914419,1680099765.9856,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&search=dwadwadwa,"App\Http\Controllers\PostController@index",200,41.069984436035,request
+1680099769-5884-348397666,1680099769.5745,GET,/?,"App\Http\Controllers\PostController@index",200,45.460939407349,request
