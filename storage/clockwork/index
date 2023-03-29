@@ -259,3 +259,13 @@
 1680093974-0149-742595685,1680093974.0002,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,76.821088790894,request
 1680094041-1032-1087640058,1680094041.0917,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",500,67.162036895752,request
 1680094061-1341-1946365136,1680094061.1195,GET,/?category=sint-molestias-officia-commodi,"App\Http\Controllers\PostController@index",200,64.566850662231,request
+1680095513-7295-400814017,1680095513.7247,GET,/?search=excepturi,"App\Http\Controllers\PostController@index",500,60.180902481079,request
+1680095543-1742-1921020549,1680095543.1634,GET,/?search=excepturi,"App\Http\Controllers\PostController@index",200,53.241968154907,request
+1680095546-1051-2106974324,1680095546.1014,GET,/?search=excepturi,"App\Http\Controllers\PostController@index",200,21.525144577026,request
+1680095554-9708-1414737760,1680095554.9674,GET,/?search=totam,"App\Http\Controllers\PostController@index",200,19.526958465576,request
+1680095563-0922-1586679632,1680095563.0882,GET,/?search=Ut+modi,"App\Http\Controllers\PostController@index",200,19.107103347778,request
+1680095568-1563-1007694142,1680095568.1423,GET,/?category=dolorum-laborum-rerum-sapiente-vitae-est-cumque-saepe&search=Ut%20modi,"App\Http\Controllers\PostController@index",200,50.44412612915,request
+1680095582-4560-399388445,1680095582.4527,GET,/?category=quia-necessitatibus-quis-totam&category=dolorum-laborum-rerum-sapiente-vitae-est-cumque-saepe&search=Ut%20modi,"App\Http\Controllers\PostController@index",200,19.18888092041,request
+1680095687-2365-109729454,1680095687.2154,GET,/?category=quia-necessitatibus-quis-totam&category=dolorum-laborum-rerum-sapiente-vitae-est-cumque-saepe&search=Ut%20modi,"App\Http\Controllers\PostController@index",200,51.35178565979,request
+1680095689-1399-220735457,1680095689.1302,GET,/?category=dolorum-laborum-rerum-sapiente-vitae-est-cumque-saepe&search=Ut+modi,"App\Http\Controllers\PostController@index",200,44.958829879761,request
+1680095691-1353-1000357224,1680095691.1213,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&search=Ut+modi,"App\Http\Controllers\PostController@index",200,49.885988235474,request
