@@ -279,3 +279,12 @@
 1680099762-7402-1878904604,1680099762.7256,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&search=dwadwadwa,"App\Http\Controllers\PostController@index",200,40.98105430603,request
 1680099765-9997-1136914419,1680099765.9856,GET,/?category=officia-dolores-est-repellendus-non-qui-ad-aliquid&search=dwadwadwa,"App\Http\Controllers\PostController@index",200,41.069984436035,request
 1680099769-5884-348397666,1680099769.5745,GET,/?,"App\Http\Controllers\PostController@index",200,45.460939407349,request
+1680102219-3472-1813290910,1680102219.3383,GET,/register,"App\Http\Controllers\RegisterController@create",200,14.660835266113,request
+1680102231-2924-707218367,1680102231.2825,GET,/register,"App\Http\Controllers\RegisterController@create",200,23.891925811768,request
+1680102462-6819-1091329762,1680102462.6689,GET,/register,"App\Http\Controllers\RegisterController@create",200,26.302099227905,request
+1680103047-7789-2001181835,1680103047.7693,GET,/register,"App\Http\Controllers\RegisterController@create",200,19.78611946106,request
+1680103176-2176-1706763039,1680103176.2065,GET,/POST?name=Luka&username=LukaBak&password=2006vs2006,,404,21.076917648315,request
+1680103185-7631-441427960,1680103185.7496,GET,/register,"App\Http\Controllers\RegisterController@create",200,24.998903274536,request
+1680103187-4433-1966605504,1680103187.4341,GET,/register,"App\Http\Controllers\RegisterController@create",200,18.563032150269,request
+1680103190-8081-1476975178,1680103190.8002,GET,/register,"App\Http\Controllers\RegisterController@create",200,15.324115753174,request
+1680103191-0494-566700329,1680103191.047,GET,/register,"App\Http\Controllers\RegisterController@create",200,5.2170753479004,request
