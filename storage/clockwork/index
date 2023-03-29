@@ -425,3 +425,14 @@
 1680114946-0082-1002708945,1680114945.9948,GET,/register,"App\Http\Controllers\RegisterController@create",200,27.789831161499,request
 1680114950-9288-227383542,1680114950.9238,POST,/register,"App\Http\Controllers\RegisterController@store",302,11.83295249939,request
 1680114950-9446-2137105141,1680114950.942,GET,/register,"App\Http\Controllers\RegisterController@create",200,6.213903427124,request
+1680115844-2673-1182803452,1680115844.261,GET,/register,"App\Http\Controllers\RegisterController@create",200,15.537023544312,request
+1680115852-2560-1561487470,1680115852.2511,POST,/register,"App\Http\Controllers\RegisterController@store",302,14.214992523193,request
+1680115852-2710-477961780,1680115852.2685,GET,/register,"App\Http\Controllers\RegisterController@create",200,6.1988830566406,request
+1680115857-2433-1896449636,1680115857.2373,POST,/register,"App\Http\Controllers\RegisterController@store",302,18.516063690186,request
+1680115857-2710-495988914,1680115857.2669,GET,/register,"App\Http\Controllers\RegisterController@create",200,9.4840526580811,request
+1680115859-2204-1970287426,1680115859.2143,POST,/register,"App\Http\Controllers\RegisterController@store",302,90.01612663269,request
+1680115859-3087-16204612,1680115859.3064,GET,/,"App\Http\Controllers\PostController@index",200,24.740934371948,request
+1680116125-6605-898846122,1680116125.6522,GET,/,"App\Http\Controllers\PostController@index",200,34.026861190796,request
+1680116131-5403-667989243,1680116131.5277,GET,/register,"App\Http\Controllers\RegisterController@create",200,22.29905128479,request
+1680116143-2496-2033610360,1680116143.2456,POST,/register,"App\Http\Controllers\RegisterController@store",302,66.940069198608,request
+1680116143-3172-1621819714,1680116143.3148,GET,/,"App\Http\Controllers\PostController@index",200,14.917850494385,request
