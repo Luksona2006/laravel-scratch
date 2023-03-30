@@ -515,3 +515,16 @@
 1680174692-7338-1160132812,1680174692.7195,POST,/posts/minima-beatae-aliquid-repellat-magni/comments,"App\Http\Controllers\PostCommentsController@store",302,43.375015258789,request
 1680174692-7701-984872072,1680174692.7661,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,31.028032302856,request
 1680174800-5384-919270195,1680174800.532,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,41.780948638916,request
+1680182470-2682-1547885569,1680182470.167,GET,/,"App\Http\Controllers\PostController@index",200,211.9300365448,request
+1680182498-7119-1456814919,1680182498.704,GET,/,"App\Http\Controllers\PostController@index",200,33.704996109009,request
+1680183744-3368-10600273,1680183744.2372,GET,/,"App\Http\Controllers\PostController@index",200,207.86595344543,request
+1680183861-3481-623920823,1680183861.2367,GET,/,"App\Http\Controllers\PostController@index",200,220.78990936279,request
+1680184035-2809-1274912053,1680184035.2759,GET,/,"App\Http\Controllers\PostController@index",200,19.911050796509,request
+1680184036-3804-1815971219,1680184036.3737,GET,/,"App\Http\Controllers\PostController@index",200,26.365041732788,request
+1680184061-4220-1746598335,1680184061.3111,GET,/,"App\Http\Controllers\PostController@index",200,221.33278846741,request
+1680184184-5672-1191164308,1680184184.4649,GET,/,"App\Http\Controllers\PostController@index",200,216.04514122009,request
+1680184203-8194-745045292,1680184203.8121,GET,/bing,,404,13.900995254517,request
+1680184211-2936-1739923924,1680184211.2862,GET,/,"App\Http\Controllers\PostController@index",200,25.827884674072,request
+1680184329-3496-470455223,1680184329.3374,GET,/,"App\Http\Controllers\PostController@index",200,40.246963500977,request
+1680184455-6769-1901379104,1680184455.6612,GET,/ping,Closure,500,84.073066711426,request
+1680184576-6065-326007081,1680184576.5837,GET,/ping,Closure,500,767.25220680237,request
