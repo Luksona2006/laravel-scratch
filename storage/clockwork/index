@@ -511,3 +511,7 @@
 1680173979-2639-1444209931,1680173979.2606,POST,/posts/minima-beatae-aliquid-repellat-magni/comments,"App\Http\Controllers\PostCommentsController@store",302,14.794111251831,request
 1680173979-2800-729785855,1680173979.2775,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,19.844055175781,request
 1680174082-6302-1250553365,1680174082.6236,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,39.911031723022,request
+1680174685-1618-1746388605,1680174685.1487,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,47.093152999878,request
+1680174692-7338-1160132812,1680174692.7195,POST,/posts/minima-beatae-aliquid-repellat-magni/comments,"App\Http\Controllers\PostCommentsController@store",302,43.375015258789,request
+1680174692-7701-984872072,1680174692.7661,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,31.028032302856,request
+1680174800-5384-919270195,1680174800.532,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,41.780948638916,request
