@@ -488,3 +488,5 @@
 1680168710-0463-2124654888,1680168710.0364,GET,/posts/et-delectus-nostrum-commodi-nobis,"App\Http\Controllers\PostController@show",200,37.467002868652,request
 1680168734-4911-242708110,1680168734.477,GET,/?search=Dolor,"App\Http\Controllers\PostController@index",200,49.111843109131,request
 1680168738-2063-1350330243,1680168738.1992,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,22.845983505249,request
+1680170976-7681-1612765146,1680170976.7587,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,36.472797393799,request
+1680170983-5362-1692800808,1680170983.5277,POST,/posts/minima-beatae-aliquid-repellat-magni,,405,48.475027084351,request
