@@ -478,3 +478,13 @@
 1680122389-1058-432017067,1680122389.0918,GET,/?authors=willis.kunde,"App\Http\Controllers\PostController@index",200,48.377990722656,request
 1680122392-3807-1793669646,1680122392.3774,GET,/posts/vitae-perspiciatis-illum-consectetur-nostrum-qui-omnis,"App\Http\Controllers\PostController@show",500,40.343046188354,request
 1680122414-5945-1050148722,1680122414.584,GET,/posts/vitae-perspiciatis-illum-consectetur-nostrum-qui-omnis,"App\Http\Controllers\PostController@show",200,38.501024246216,request
+1680168333-0976-1151791245,1680168332.996,GET,/,"App\Http\Controllers\PostController@index",200,238.03186416626,request
+1680168337-9304-406636591,1680168337.927,GET,/?authors=bosco.lucious,"App\Http\Controllers\PostController@index",200,18.391847610474,request
+1680168371-6325-1902417965,1680168371.6293,GET,/?search=Labore+eos+ispam+iusto,"App\Http\Controllers\PostController@index",200,12.202978134155,request
+1680168380-7533-572685229,1680168380.7498,GET,/?search=Labore,"App\Http\Controllers\PostController@index",200,16.948938369751,request
+1680168382-8106-487854979,1680168382.801,GET,/posts/et-delectus-nostrum-commodi-nobis,"App\Http\Controllers\PostController@show",200,35.183191299438,request
+1680168666-5898-1578334059,1680168666.585,GET,/posts/et-delectus-nostrum-commodi-nobis,"App\Http\Controllers\PostController@show",500,82.133054733276,request
+1680168679-5752-1264638314,1680168679.5715,GET,/posts/et-delectus-nostrum-commodi-nobis,"App\Http\Controllers\PostController@show",200,16.170024871826,request
+1680168710-0463-2124654888,1680168710.0364,GET,/posts/et-delectus-nostrum-commodi-nobis,"App\Http\Controllers\PostController@show",200,37.467002868652,request
+1680168734-4911-242708110,1680168734.477,GET,/?search=Dolor,"App\Http\Controllers\PostController@index",200,49.111843109131,request
+1680168738-2063-1350330243,1680168738.1992,GET,/posts/minima-beatae-aliquid-repellat-magni,"App\Http\Controllers\PostController@show",200,22.845983505249,request
