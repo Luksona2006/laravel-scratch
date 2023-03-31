@@ -27,3 +27,5 @@
 1680268503-3753-1943888450,1680268503.3725,GET,/posts/a-new-post,"App\Http\Controllers\PostController@show",200,14.756202697754,request
 1680268593-1499-1429153406,1680268593.1464,GET,/posts/a-new-post,"App\Http\Controllers\PostController@show",200,14.985084533691,request
 1680268695-4381-1281069482,1680268695.4241,GET,/posts/a-new-post,"App\Http\Controllers\PostController@show",200,34.424066543579,request
+1680269630-3125-2033541394,1680269630.2979,GET,/posts/a-new-post,"App\Http\Controllers\PostController@show",200,39.588928222656,request
+1680269636-9017-171025440,1680269636.8943,GET,/admin/posts/create,"App\Http\Controllers\PostController@create",200,27.980089187622,request
